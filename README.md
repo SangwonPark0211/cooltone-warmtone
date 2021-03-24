@@ -1,5 +1,5 @@
 # cooltone-warmtone
-사람 얼굴 이미지를 보고 피부톤의 쿨톤과 웜톤의 정도를 퍼센테이지로 알려주는 AI로 Google teachable machine을 사용하였습니다.
+사람 얼굴 이미지를 보고 피부의 쿨톤과 웜톤의 정도를 퍼센테이지로 알려주는 AI입니다. Google teachable machine을 사용하여 구현하였습니다.
 
 ### Google teachable machine
 - https://teachablemachine.withgoogle.com/
