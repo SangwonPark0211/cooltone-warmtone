@@ -9,7 +9,7 @@ google_images_download 모둘을 사용해 학습에 필요한 이미지를 수�
 - 모듈 관련 공식 문서 : https://google-images-download.readthedocs.io/en/latest/index.html
 - 설치 및 사용방법 : https://otugi.tistory.com/137
 
-### 학습 데이터
+### Dataset
 쿨톤과 웜톤으로 대표되는 연예인들의 사진을 학습 데이터로 사용하였습니다.
 - 쿨톤 : 이영애, 태연, 손예진, 홍빈, 차은우
 - 웜톤 : 최강창민, 박보검, 이효리, 박보영, 박신혜
